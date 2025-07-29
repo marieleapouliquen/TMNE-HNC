@@ -37,7 +37,7 @@ This directory contains several R scripts, each focusing on a specific moderator
 * `metaDuration.R`: Investigates the moderating effect of the duration of the nature experience.
 * `metaTechno.R`: Analyzes the impact of different types of technology.
 * `metaNature.R`: Explores the difference between real and simulated nature experiences.
-* `Metareg.R`: Likely performs a meta-regression analysis to explore the combined effect of multiple moderators.
+* `Metareg.R`: Performs a meta-regression analysis to explore the combined effect of multiple moderators.
 * `metaMODE.R`: Analyzes the moderating effect of different modes of engagement.
 
 #### Data
